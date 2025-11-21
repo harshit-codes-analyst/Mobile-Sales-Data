@@ -81,21 +81,16 @@ The dataset includes the following fields:
 - **DAX** (for calculations and measures)
 - **Power Query** (for data cleaning and transformation)
 - **Excel/CSV** (as the data source)
-
 ---
-
 ## 📷 Dashboard Preview
 ![Dashboard Preview](Sales.png)
 
 ---
-
 ## 📥 How to Use the Project
 1. Download the `.pbix` file from the repository.
 2. Open it using **Power BI Desktop**.
 3. Interact with the dashboard using slicers and visuals.
-
 ---
-
 ## 👤 Author
 **Harshit Tiwari**  
 LinkedIn: www.linkedin.com/in/harshit-tiwari-aa92a3373
