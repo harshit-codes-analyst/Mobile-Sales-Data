@@ -85,8 +85,9 @@ The dataset includes the following fields:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](https://github.com/harshit-codes-analyst/Mobile-Sales-Data/blob/main/Sales.png)
-```
+![Dashboard Preview](Sales.png)
+
+---
 
 ## 📥 How to Use the Project
 1. Download the `.pbix` file from the repository.
@@ -97,5 +98,6 @@ The dataset includes the following fields:
 
 ## 👤 Author
 **Harshit Tiwari**  
-GitHub: [harshit-codes-analyst](https://github.com/harshit-codes-analyst)
+LinkedIn: www.linkedin.com/in/harshit-tiwari-aa92a3373
+Email: ht725608@gmail.com
 
