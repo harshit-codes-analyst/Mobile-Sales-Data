@@ -85,9 +85,7 @@ The dataset includes the following fields:
 ---
 
 ## 📷 Dashboard Preview
-You can add your screenshot here:
-```md
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](https://github.com/harshit-codes-analyst/Mobile-Sales-Data/blob/main/Sales.png)
 ```
 
 ---
