@@ -88,8 +88,6 @@ The dataset includes the following fields:
 ![Dashboard Preview](https://github.com/harshit-codes-analyst/Mobile-Sales-Data/blob/main/Sales.png)
 ```
 
----
-
 ## 📥 How to Use the Project
 1. Download the `.pbix` file from the repository.
 2. Open it using **Power BI Desktop**.
